@@ -4,7 +4,7 @@
 #### 组员
 - CJTSAJ 陈江涛
 - FangLouhao方娄昊
-- liueo 刘泽宇
+- Gilleo 刘泽宇
 - sheep1998 李琥
 - snake0 贾兴国
 
