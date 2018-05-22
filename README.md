@@ -1,6 +1,13 @@
 # CI/CD环境搭建与使用
 
-#### 组员：陈江涛、方娄昊、刘泽宇、李琥、贾兴国
+
+#### 组员
+- CJTSAJ 陈江涛
+- FangLouhao方娄昊
+- liueo 刘泽宇
+- sheep1998 李琥
+- snake0 贾兴国
+
 ## CI
 ### CI的好处
 - 减少项目的风险,尽早发现并修复bug,尽早估量软件质量
@@ -50,6 +57,9 @@
 [Repo地址](https://github.com/CJTSAJ/travis-pages-homework)
 
 
+
+
+[![Build Status](https://www.travis-ci.org/CJTSAJ/cicd-homework.svg?branch=master)](https://www.travis-ci.org/CJTSAJ/cicd-homework)
 
 
 
