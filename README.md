@@ -1,4 +1,4 @@
-# CI/CD环境搭建与使用
+# travis CI + heroku手动部署vue.js项目
 
 
 #### 组员
